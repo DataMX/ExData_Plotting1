@@ -1,4 +1,8 @@
+To Peer Reviewers:
+This might be too late for grading.  My plot1.png, plot2.png, plot3.png and plot4.png are all in the DataMx_figures directory rather then loose.
+
 ## Introduction
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
